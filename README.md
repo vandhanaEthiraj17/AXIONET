@@ -1,4 +1,4 @@
-#   Nexum: A Social Networking Platform for Collaborative Learning and Professional Growth
+#   AXIONET: A Social Networking Platform for Collaborative Learning and Professional Growth
 
 ##   Description
 
